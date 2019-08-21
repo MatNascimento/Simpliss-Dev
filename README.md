@@ -101,6 +101,20 @@ https://www.youtube.com/watch?v=dw-y3vNDRWk
 
 https://www.youtube.com/watch?v=lZfv4H-9ato
 
+## Otimização SQL
+
+https://www.devmedia.com.br/otimizacao-de-consultas-sql/33485
+
+## NoSQL
+
+https://www.youtube.com/watch?v=1B64oqE8PLs
+
+http://www.macoratti.net/09/08/net_db4o.htm
+
+https://www.youtube.com/watch?v=lqJ1q6RQMMo
+
+https://www.youtube.com/watch?v=iMnlXLaKEcs
+
 ## Automação de Tarefas
 
 https://www.softdownload.com.br/10-programas-gratuitos-automatizar-tarefas-computador.html
