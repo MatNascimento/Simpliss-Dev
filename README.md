@@ -3,122 +3,132 @@ Repositório de conteúdo para estudos Simpliss
 
 ## Orientação a Objetos
 
-https://www.youtube.com/watch?v=pTB0EiLXUC8
+Textos:
+- https://medium.com/dev-interior/a-dificuldade-de-programar-orientado-ao-objeto-bdf5d0f643f5
+- https://www.ateomomento.com.br/orientacao-a-objetos-e-semantica/
 
-https://www.youtube.com/watch?v=y4eG3Xh1lIw
+Vídeos:
+- Pilares da POO: https://www.youtube.com/watch?v=y4eG3Xh1lIw
+- Pilares da POO: (Inglês) https://www.youtube.com/watch?v=pTB0EiLXUC8
 
-https://www.caelum.com.br/apostila-csharp-orientacao-objetos/
-
-https://objectpascalprogramming.com/posts/o-que-e-orientacao-a-objetos/
-
-https://www.ateomomento.com.br/orientacao-a-objetos-e-semantica/
-
-https://medium.com/dev-interior/a-dificuldade-de-programar-orientado-ao-objeto-bdf5d0f643f5
+Apostilas:
+- POO com C#: https://www.caelum.com.br/apostila-csharp-orientacao-objetos/
 
 ## Código Limpo e Boas Práticas
 
-https://www.youtube.com/playlist?list=PLGLfVvz_LVvSuz6NuHAzpM52qKM6bPlCV
+Vídeos:
+- Clean Code: https://www.youtube.com/watch?v=ln6t3uyTveQ
+- Playlist Clean Code: https://www.youtube.com/playlist?list=PLMdYygf53DP5Sc6yFYs6ZmjsuuA2fu0TK
 
-https://www.youtube.com/watch?v=NCsoEEz_Ta0
+- Playlist com técnicas de refatoração e limpeza de código (Inglês): https://www.youtube.com/playlist?list=PLGLfVvz_LVvSuz6NuHAzpM52qKM6bPlCV
+- Substituir vários IFs e Elses usando polimorfismo (Inglês): https://www.youtube.com/watch?v=NCsoEEz_Ta0
 
-https://www.youtube.com/watch?v=ummTYjEQC74
+- https://www.youtube.com/watch?v=fFcA9w32u-Y
 
-https://www.youtube.com/playlist?list=PLMdYygf53DP5Sc6yFYs6ZmjsuuA2fu0TK
-
-https://drive.google.com/file/d/0B9eZlIWAs3-sN3NRbktQNVFUN3l2cTBBcXN4Y3FaUQ/view
+Livros:
+- Clean Code PDF em Português: https://drive.google.com/file/d/0B9eZlIWAs3-sN3NRbktQNVFUN3l2cTBBcXN4Y3FaUQ/view
 
 ## Princípios KISS, DRY e YAGNI
 
 https://pt.stackoverflow.com/questions/23052/o-que-s%C3%A3o-os-princ%C3%ADpios-dry-kiss-e-yagni
+https://medium.com/opensanca/3-princ%C3%ADpios-para-facilitar-a-vida-de-todo-programador-5842885c9659
 
 ## Principios SOLID
 
-https://www.youtube.com/watch?v=Q2QdkiX6p_Y
+Textos:
+- O que é SOLID: https://medium.com/@mari_azevedo/princ%C3%ADpios-s-o-l-i-d-o-que-s%C3%A3o-e-porque-projetos-devem-utiliz%C3%A1-los-bf496b82b299
 
-https://www.youtube.com/watch?v=SOo-F4Hdp0E
+Vídeos:
+- SOLID na prática com C#: https://www.youtube.com/watch?v=Q2QdkiX6p_Y
 
-https://www.youtube.com/watch?v=agkWYPUcLpg
-
-https://medium.com/thiago-aragao/solid-princ%C3%ADpios-da-programa%C3%A7%C3%A3o-orientada-a-objetos-ba7e31d8fb25
-
-https://medium.com/@mari_azevedo/princ%C3%ADpios-s-o-l-i-d-o-que-s%C3%A3o-e-porque-projetos-devem-utiliz%C3%A1-los-bf496b82b299
-
-https://www.alura.com.br/curso-online-orientacao-a-objetos-avancada-e-principios-solid-csharp
+Cursos:
+- Padrões SOLID com C#: https://www.alura.com.br/curso-online-orientacao-a-objetos-avancada-e-principios-solid-csharp
 
 ## Principios GRASP
 
-https://bytesdontbite.com/2015/03/26/grasp-coisas-que-todo-programador-deveria-saber/
+Textos:
+- https://bytesdontbite.com/2015/03/26/grasp-coisas-que-todo-programador-deveria-saber/
+- https://pt.wikipedia.org/wiki/GRASP_(padr%C3%A3o_orientado_a_objetos)
+- https://www.devmedia.com.br/desenvolvimento-com-qualidade-com-grasp/28704
 
-https://medium.com/@leandrovboas/padr%C3%B5es-grasp-padr%C3%B5es-de-atribuir-responsabilidades-1ae4351eb204
-
-https://www.devmedia.com.br/desenvolvimento-com-qualidade-com-grasp/28704
-
-http://www.dsc.ufcg.edu.br/~jacques/cursos/apoo/html/proj1/proj5.htm
+Vídeos:
+- Princípios GRASP (Inglês): https://www.youtube.com/watch?v=HO_3L-mxVNw
 
 ## Padrões de Projeto
 
-https://imasters.com.br/dotnet/net-design-patterns-identificando-e-aplicando-padroes-parte-01
+Textos:
+- Padrão CQRS: https://www.eduardopires.net.br/2016/07/cqrs-o-que-e-onde-aplicar/
 
-https://www.youtube.com/watch?v=PGAwB-yW4v8
+Vídeos:
+- Principais padrões de projeto: https://www.youtube.com/watch?v=QUZlbMJpbOg
+- Padrões de Projeto e SOLID com C# (Inglês): https://www.youtube.com/watch?v=agkWYPUcLpg
+- Playlist sobre diversos padrões diferentes (Inglês): https://www.youtube.com/playlist?list=PLF206E906175C7E07
+- Padrão CQRS para aplicações .NET: https://www.youtube.com/watch?v=AQcsfIXQj18
 
-https://www.youtube.com/playlist?list=PLPUp6rbjBTHDehxG3dggOQ9V9EPm8O7hR
+Cursos:
+- Padrões de Projeto em C# 1: https://www.alura.com.br/curso-online-design-patterns-dotnet
+- Padrões de Projeto em C# 2: https://www.alura.com.br/curso-online-design-patterns-2-dot-net
 
-https://www.youtube.com/playlist?list=PLF206E906175C7E07
+## Desenvolvimento Guiado a Testes (TDD) e Design Orientado a Domínio (DDD)
+
+Textos:
+- DDD prático em C#: https://medium.com/@alexalves_85598/criando-uma-api-em-net-core-baseado-na-arquitetura-ddd-2c6a409c686
+- https://www.devmedia.com.br/introducao-ao-ddd-em-net/32724
+
+Vídeos:
+- O que é TDD: https://www.youtube.com/watch?v=bLdEypr2e-8
+- TDD básico em C# (Inglês): https://www.youtube.com/watch?v=l4xhTq4qmC0
+
+- O que é DDD: https://www.youtube.com/watch?v=QxRXB1B9m8E
+- Aula de DDD em C#: https://www.youtube.com/watch?v=NryGGD21O20
+
+## Computação Distribuída e Paralela
+
+Textos:
+- Arquitetura de Microsserviço usando DDD e CQRS: https://docs.microsoft.com/pt-br/dotnet/standard/microservices-architecture/microservice-ddd-cqrs-patterns/ddd-oriented-microservice
 
 ## Paradigma Funcional
 
-https://www.youtube.com/watch?v=BxbHGPivjdc
+Vídeos:
+- O que é Programação Funcional: https://www.youtube.com/watch?v=BxbHGPivjdc
+- Contexto: https://www.youtube.com/watch?v=7fUSWs02m9U
+- Princípios: https://www.youtube.com/watch?v=bVfHSc38dLU
+- Diferença entre Paradigmas: https://www.youtube.com/watch?v=JDSglOBvhw8
+- Programação Funcional em C#: https://www.youtube.com/watch?v=O-PLbfgWpJA
 
-https://www.youtube.com/watch?v=kJuJU-7_utA
-
-https://www.youtube.com/watch?v=JDSglOBvhw8
-
-https://www.youtube.com/watch?v=w5FISyXCEjU
-
-https://www.alura.com.br/curso-online-introducao-a-programacao-funcional-com-clojure
+Cursos:
+- Programação Funcional em Clojure: https://www.alura.com.br/curso-online-introducao-a-programacao-funcional-com-clojure
 
 ## Paradigma Reativo
 
-https://medium.com/olxbr-tech/por-que-programa%C3%A7%C3%A3o-reativa-8fba7e754a0f
+Textos:
+- O que é Programação Reativa e Princípios: https://pt.stackoverflow.com/questions/55332/o-que-%C3%A9-reactive-programming-programa%C3%A7%C3%A3o-reativa
 
-https://www.infoq.com/br/news/2013/11/programacao-reativa/
-
-https://www.youtube.com/watch?v=rGdAF-4wtfM
-
-https://www.youtube.com/watch?v=B2XKzOL5Gs0
-
-https://www.youtube.com/watch?v=pzhbvxo0NU8
-
-https://www.youtube.com/watch?v=49dMGC1hM1o
-
-https://www.youtube.com/watch?v=cfqpSgYDLAc
-
-## Metaprogramação
-
-https://www.youtube.com/watch?v=xrAJCFt2N5Q
-
-https://www.youtube.com/watch?v=dw-y3vNDRWk
-
-https://www.youtube.com/watch?v=lZfv4H-9ato
+Vídeos:
+- O que é: https://www.youtube.com/watch?v=rGdAF-4wtfM
+- https://www.youtube.com/watch?v=pzhbvxo0NU8
+- Aplicação Reativa com Flutter (Inglês): https://www.youtube.com/watch?v=n5FMO6G5oI8
 
 ## Otimização SQL
 
-https://www.devmedia.com.br/otimizacao-de-consultas-sql/33485
+Textos:
+- https://www.devmedia.com.br/otimizacao-de-consultas-sql/33485
+
+Vídeos:
+- O que é SQL Tuning: https://www.youtube.com/watch?v=OX8DXh18f4g
+- Curso de SQL Tuning em Oracle: https://www.youtube.com/watch?v=Y8Ruh3iYKpw&list=PLtcD2eg6a8mvMwh8qGrsVGcsIEPC3i6GK
 
 ## NoSQL
 
-https://www.youtube.com/watch?v=1B64oqE8PLs
-
-http://www.macoratti.net/09/08/net_db4o.htm
-
-https://www.youtube.com/watch?v=lqJ1q6RQMMo
-
-https://www.youtube.com/watch?v=iMnlXLaKEcs
+Vídeos:
+- O que é NoSQL: https://www.youtube.com/watch?v=1B64oqE8PLs
+- MongoDB com C# (Inglês): https://www.youtube.com/watch?v=69WBy4MHYUw
 
 ## Automação de Tarefas
 
-https://www.softdownload.com.br/10-programas-gratuitos-automatizar-tarefas-computador.html
+Textos:
+- https://pt.tipsandtrics.com/7-free-windows-tools-automate-repetitive-tasks-752989
 
-https://www.youtube.com/watch?v=S7QFeHkPGrM
-
-https://www.youtube.com/watch?v=XVhTKZrkefU
+Vídeos:
+- Automação com Python Pyautogui: https://www.youtube.com/watch?v=S7QFeHkPGrM
+- Automação com Python Selenium: https://www.youtube.com/watch?v=XVhTKZrkefU
