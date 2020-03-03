@@ -58,6 +58,7 @@ Vídeos:
 
 Textos:
 - Padrão CQRS: https://www.eduardopires.net.br/2016/07/cqrs-o-que-e-onde-aplicar/
+- Artigo - https://docplayer.com.br/6800461-Aplicacao-de-design-patterns-no-desenvolvimento-de-sistemas-distribuidos.html
 
 Vídeos:
 - Principais padrões de projeto: https://www.youtube.com/watch?v=QUZlbMJpbOg
@@ -132,3 +133,9 @@ Textos:
 Vídeos:
 - Automação com Python Pyautogui: https://www.youtube.com/watch?v=S7QFeHkPGrM
 - Automação com Python Selenium: https://www.youtube.com/watch?v=XVhTKZrkefU
+
+## Atalhos Visual Studio
+- https://msdn.microsoft.com/pt-br/library/da5kh0wa.aspx
+
+## Startando MVC com C#
+- https://docs.microsoft.com/pt-br/aspnet/web-forms/overview/getting-started/getting-started-with-aspnet-45-web-forms/create-the-project
