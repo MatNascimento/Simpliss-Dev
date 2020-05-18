@@ -134,6 +134,31 @@ Vídeos:
 - Automação com Python Pyautogui: https://www.youtube.com/watch?v=S7QFeHkPGrM
 - Automação com Python Selenium: https://www.youtube.com/watch?v=XVhTKZrkefU
 
+## Levantamento de requisitos e UML
+
+#### Levantamento
+
+Textos:
+- https://www.devmedia.com.br/tecnicas-para-levantamento-de-requisitos/9151
+- https://medium.com/lfdev-blog/como-escrever-requisitos-de-software-de-forma-simples-e-garantir-o-m%C3%ADnimo-de-erros-no-sistema-app-74df2ee241cc
+- https://www.devmedia.com.br/guia/requisitos-modelagem-e-uml/35697
+
+#### Casos de Uso
+
+Slides:
+- https://edisciplinas.usp.br/pluginfile.php/1906994/mod_resource/content/1/Aula03_DescricaoCasosDeUso.pdf
+- http://www.fattocs.com/files/pt/apresentacoes/19-04%20Web%20Caso%20de%20uso%20v1.pdf
+
+Textos:
+- https://www.devmedia.com.br/desenvolvimento-de-software-dirigido-por-caso-de-uso/9148
+- http://www.linhadecodigo.com.br/artigo/2958/como-fazer-um-plano-de-testes-baseado-em-casos-de-uso.aspx
+
+
+#### Histórias de Usuário
+
+Texto:
+- https://blog.myscrumhalf.com/user-stories-o-que-sao-como-usar/
+
 ## Atalhos Visual Studio
 - https://msdn.microsoft.com/pt-br/library/da5kh0wa.aspx
 
